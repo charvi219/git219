@@ -32,8 +32,8 @@
                        sqp_8739c8b3c0b7854db0d4de4efad4d759c9915c5b
 
                  </sonar.token> 
-                 <sonar.login>admin</sonar.login>
-                 <sonar.password>charvi@111</sonar.password>
+                 <!-- <sonar.login>admin</sonar.login>
+                 <sonar.password>charvi@111</sonar.password> -->
             </properties>
         </profile>
      </profiles>
