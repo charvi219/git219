@@ -29,7 +29,8 @@
                   http://localhost:9009
                 </sonar.host.url>
                  <sonar.token>
-                       sqp_8739c8b3c0b7854db0d4de4efad4d759c9915c5b
+                       sqp_9386c2dab5f38a5734cdcf4b0aac7871b98ed142
+
 
                  </sonar.token> 
                  <!-- <sonar.login>admin</sonar.login>
